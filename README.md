@@ -3,6 +3,31 @@
 **Author:** Kalhar Mayurbhai Patel  
 **Student ID:** 019140511
 
+# Colabs:
+https://colab.research.google.com/drive/1_XEDWk1x6LmbbQXE4uzdh58dDanNXkpp?usp=sharing
+
+https://colab.research.google.com/drive/1u8uO4jk8u9TACY-quSsem9oUyvzUAM74?usp=sharing
+
+https://colab.research.google.com/drive/1NA7aZPQkt9_BfwzgUDGFa6H2D39oIJGK?usp=sharing
+
+https://colab.research.google.com/drive/1oRvlo0I3UrGnBPvLNh5DCDbCazietKcU?usp=sharing
+
+https://colab.research.google.com/drive/1Pt1EqHVp-ZpZ1tfFyRvQrTdvycENHQST?usp=sharing
+
+https://colab.research.google.com/drive/1RQBLTim336VcWs_CdSmh4Rrx3QD0oTHi?usp=sharing
+
+https://colab.research.google.com/drive/1WIMy1eZ5hNrmx1sMokh20lmZT8Z_LZ09?usp=sharing
+
+https://colab.research.google.com/drive/11dEFNwJbtxjdgkGkOKu_3tgQ131Q6xFK?usp=sharing
+
+https://colab.research.google.com/drive/1EtxIKpFReQbZUlxnBMbHgrNVpX3tnVfo?usp=sharing
+
+https://colab.research.google.com/drive/1UHBFeu4DIy4i91s-SjeASFEWl7Kj75dP?usp=sharing
+
+https://colab.research.google.com/drive/16UvdX7ThtduTY9lZZFxK88p8qKM5PV_5?usp=sharing
+
+https://colab.research.google.com/drive/1JRs-hA1soUAY29KitbziWRKbbdp9Cvzk?usp=sharing
+
 ---
 
 ## Overview
