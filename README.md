@@ -28,6 +28,15 @@
 
 - https://colab.research.google.com/drive/1JRs-hA1soUAY29KitbziWRKbbdp9Cvzk?usp=sharing
 
+# Videos:
+
+- Video 1a,1b,1c: https://www.loom.com/share/4d8c43b24a0e4b4185b6f79d3d0a9a09
+
+- Video 1d,1e,1f: https://www.loom.com/share/faffe2e31a0845719bd4e5c3abe3f600
+
+- Video 1g,1h,1i: https://www.loom.com/share/8f62251784574190947535707ec83ca4
+
+- Video 1j,1k,2:https://www.loom.com/share/c012824f0af24b6dacf49f01c7bf283f
 ---
 
 ## Overview
